@@ -28,10 +28,12 @@ def IP_to_menu(path,IP):
                 <tr><td align="center"  style=" font-size:24px;">查詢魚市行情</td></tr>
             </table>        
         </body>
-    </html>
+    </html >
     """
     
     f.write(message)
     f.close()
     
     # <img src="https://i.ibb.co/ys0gJNm/logo.jpg" alt="logo" border="0" style=" width:300px; position:relative; top:100px;left:500px "></a>
+
+    a = 5
