@@ -1,5 +1,5 @@
 
-    aa==5
+
 def IP_to_menu(path,IP):
     f = open(path,'w',encoding="utf-8")
     message = """
